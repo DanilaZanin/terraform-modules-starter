@@ -1,3 +1,5 @@
+> **Moved.** This starter now lives in [devops-starters/infra/terraform-docker-modules](https://github.com/DanilaZanin/devops-starters/tree/main/infra/terraform-docker-modules), with pinned versions, a self-contained Makefile and a test that reproduces the trap it avoids. This repository is archived.
+
 # terraform-modules-starter
 
 A small set of reusable Terraform modules — `network`, `security-group`, `compute` —
